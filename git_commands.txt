@@ -1,0 +1,9 @@
+git comands
+git status
+git init
+git add --a
+git log
+git add first.txt
+git commit -m "some message"
+git -rf .git
+git diff
