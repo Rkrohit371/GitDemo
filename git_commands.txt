@@ -1,4 +1,4 @@
-git comands
+git commands
 git status
 git init
 git add --a
